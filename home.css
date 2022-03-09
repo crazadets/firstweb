@@ -1,0 +1,20 @@
+body{
+   background-color: black;
+   color: white;
+}
+h1{
+  font-size: 50px;
+  margin-left: 50px;
+}
+ol{
+  margin-left: 50px;
+}
+li{
+  font-size: 30px;
+}
+a:visited{
+  color: white;
+}
+.center{
+  text-align: center;
+}

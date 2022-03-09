@@ -1,0 +1,21 @@
+body{
+   background-color: black;
+   color: white;
+}
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+img{
+  border-radius: 50%;
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+.profile-pic{
+  text-align: center;
+}
+.github{
+  text-align: center;
+}
